@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SPpIi0cl9Jp5ok3GAHWe-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;gradientColor=none;glass=1;" vertex="1" parent="1">
+        <mxCell id="SPpIi0cl9Jp5ok3GAHWe-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;gradientColor=none;glass=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="150" width="780" height="400" as="geometry" />
         </mxCell>
         <mxCell id="SPpIi0cl9Jp5ok3GAHWe-4" value="模块一：源头治理-基于生成式AI的多源观测数据智能质控与重构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="130" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SPpIi0cl9Jp5ok3GAHWe-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

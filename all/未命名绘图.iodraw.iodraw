@@ -10,8 +10,8 @@
         <mxCell id="SPpIi0cl9Jp5ok3GAHWe-4" value="模块一：源头治理-基于生成式AI的多源观测数据智能质控与重构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="119" y="130" width="350" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SPpIi0cl9Jp5ok3GAHWe-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="200" width="40" height="60" as="geometry" />
+        <mxCell id="SPpIi0cl9Jp5ok3GAHWe-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="200" width="110" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
